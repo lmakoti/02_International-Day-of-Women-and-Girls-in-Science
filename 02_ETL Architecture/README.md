@@ -10,26 +10,16 @@
 
 ## Architecture (ETL)
 
-The image below depicts the query management structure in the Power Query Editor and the corresponding tables used to build out the model:
-
-<img src=""  alt="un_badge" border="0">
-
-
-
 **Analytics Tool**: Tableau Desktop
-
 
 
 ## Extraction
 
 
-
 ## Transformation
 
 
-
 ## Load
-
 
 
 ## Networking
