@@ -118,7 +118,7 @@ Girls-Coding-Academy (https://www.facebook.com/girlscodingacademy.ls)
 
 **'Maneo Mapharisa (...)**
 
-**Email:** ...@gmail.com
+**Facebook:** https://www.facebook.com/girlscodingacademy.ls
 
 
 
@@ -128,7 +128,7 @@ Connecting and building networks is always part of our priorities, please reach 
 
 **Tebello Mokhele, Revenue Assurance Specialist (Vodacom, Vodafone Group)**
 
-LinkedIn - https://www.linkedin.com/in/tebello-mokhele-25009b98/
+LinkedIn - https://www.linkedin.com/in/tebellomokhele/
 
 **Lehlohonolo Makoti, Data Management and Analytics Specialist (Commonwealth)**
 
