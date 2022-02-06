@@ -23,7 +23,6 @@
 <img src="https://www.un.org/sites/un2.un.org/files/styles/banner-image-style-27-10/public/women_and_girls_home.jpg?itok=bZ-id0tz" alt="main_report_page" border="0">
 <em>An adolescent girl conducts an experiment during a chemistry class in Kamulanga Secondary School in Lusaka, Zambia,  Photo:UNICEF Photo/UN0145554/Karin Schermbrucker </em>
 </p>
-****
 
 Science and gender equality are both vital for the achievement of the internationally agreed development goals, including the 2030 Agenda for Sustainable Development. Over the past decades, the global community  has made a lot of effort in inspiring and engaging women and girls in  science. Yet women and girls continue to be excluded from participating  fully in science.
 
@@ -41,13 +40,13 @@ Target 5.b: Enhance the use of enabling technology, in particular information an
 
 **Detailed Architecture Overview**: <a href="02_ETL Architecture/README.md" target="_blank">More Details</a>
 
-UNDP Human Development Data Center: The human development data are sourced from international data agencies with the mandate, resources, and expertise to collect national data on specific indicators unless otherwise noted.
+**UNDP Human Development Data Center**: The human development data are sourced from international data agencies with the mandate, resources, and expertise to collect national data on specific indicators unless otherwise noted.
 
 **Human Development Report Office Statistical Data API**
 
 The Human Development Report Office (HDRO) offers this REST API for the developers to query human development related data in JSON format. The data can be queried by indicator id(s), year(s) and country code(s) and group by any order. 
 
-**API Home**: http://ec2-54-174-131-205.compute-1.amazonaws.com/API/Information.php
+> **API Home**: http://ec2-54-174-131-205.compute-1.amazonaws.com/API/Information.php
 
 **Using the API**
 
@@ -55,11 +54,11 @@ Users should query the API using the GET method. The resource selection can be d
 
 **The options selection is by default set to**: Data Structure: structure = ciy [ciy, yic, yci, iyc, icy]
 
-http://ec2-54-174-131-205.compute-1.amazonaws.com/API/HDRO_API.php/country_code=AFG,ZWE/indicator_id=103206,103606,103706/year=1990,2013,2019/structure=ciy
+> http://ec2-54-174-131-205.compute-1.amazonaws.com/API/HDRO_API.php/country_code=AFG,ZWE/indicator_id=103206,103606,103706/year=1990,2013,2019/structure=ciy
 
 **Data Minimisation (GDPR)**
 
-**URL:** http://ec2-54-174-131-205.compute-1.amazonaws.com/API/HDRO_API.php/country_code=AGO,BWA,COM,COD,SWZ,LSO,MDG,MWI,MUS,MOZ,NAM,SYC,ZAF,TZA,ZMB,ZWE/indicator_id=68606
+> **URL:** http://ec2-54-174-131-205.compute-1.amazonaws.com/API/HDRO_API.php/country_code=AGO,BWA,COM,COD,SWZ,LSO,MDG,MWI,MUS,MOZ,NAM,SYC,ZAF,TZA,ZMB,ZWE/indicator_id=indicator_placeholder
 
 **Indicators:** 68606, 175906, 183506
 
@@ -73,7 +72,7 @@ A composite measure reflecting inequality in achievement between women  and men 
 
 **Data Source:** HDRO calculations based on data in columns 3-9
 
-**URL:** http://hdr.undp.org/en/indicators/68606
+> **URL:** http://hdr.undp.org/en/indicators/68606
 
 **2. Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, female % (Indicator ID - 175906)**
 
@@ -81,7 +80,7 @@ Share of female tertiary graduates in science, technology, engineering  and math
 
 **Data Source:** UNESCO (United Nations Educational, Scientific and  Cultural Organization) Institute for Statistics (2020). Data Centre.  http://data.uis.unesco.org. Accessed 21 July 2020.
 
-**URL:** http://hdr.undp.org/en/indicators/175906
+> **URL:** http://hdr.undp.org/en/indicators/175906
 
 **3. Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are female % (Indicator ID - 183506)**
 
@@ -89,7 +88,7 @@ Share of female graduates among all graduates of tertiary programmes in science,
 
 **Data Source:** UNESCO (United Nations Educational, Scientific and  Cultural Organization) Institute for Statistics (2020). Data Centre.  http://data.uis.unesco.org. Accessed 21 July 2020.
 
-**URL:** http://hdr.undp.org/en/indicators/183506
+> **URL:** http://hdr.undp.org/en/indicators/183506
 
 
 
@@ -108,16 +107,12 @@ Share of female graduates among all graduates of tertiary programmes in science,
 
 ## Sponsors
 
-Codepool.tech (https://www.codepool.tech)
-
-**Tsepo Thoabala, Software Engineer (Co-founder)**
-
+> Codepool.tech (https://www.codepool.tech) <br/>
+**Tsepo Thoabala, Software Engineer** (https://tmthoabala.codepool.tech/) <br/>
 **Email:** info@codepool.tech
 
-Girls-Coding-Academy (https://www.facebook.com/girlscodingacademy.ls)
-
-**'Maneo Mapharisa (...)**
-
+> Girls-Coding-Academy (https://www.facebook.com/girlscodingacademy.ls) <br/>
+**'Maneo Mapharisa** (https://www.linkedin.com/in/maneo-mapharisa-464814178/)<br/>
 **Facebook:** https://www.facebook.com/girlscodingacademy.ls
 
 
@@ -126,14 +121,11 @@ Girls-Coding-Academy (https://www.facebook.com/girlscodingacademy.ls)
 
 Connecting and building networks is always part of our priorities, please reach out if you have any ideas on collaborative efforts or any suggestions on ways we could improve our work, hopefully we would be as much usefulness to you in return. 
 
-**Tebello Mokhele, Revenue Assurance Specialist (Vodacom, Vodafone Group)**
-
+> **Tebello Mokhele, Revenue Assurance Specialist (Vodacom, Vodafone Group)** <br/>
 LinkedIn - https://www.linkedin.com/in/tebellomokhele/
 
-**Lehlohonolo Makoti, Data Management and Analytics Specialist (Commonwealth)**
-
-LinkedIn - https://www.linkedin.com/in/lehlohonolomakoti/
-
+> **Lehlohonolo Makoti, Data Management and Analytics Specialist (Commonwealth)** <br/>
+LinkedIn - https://www.linkedin.com/in/lehlohonolomakoti/ <br/>
 Profile - https://lmakoti.codepool.tech/
 
 
