@@ -23,8 +23,6 @@
 <img src="https://www.un.org/sites/un2.un.org/files/styles/banner-image-style-27-10/public/women_and_girls_home.jpg?itok=bZ-id0tz" alt="main_report_page" border="0">
 <em>An adolescent girl conducts an experiment during a chemistry class in Kamulanga Secondary School in Lusaka, Zambia,  Photo:UNICEF Photo/UN0145554/Karin Schermbrucker </em>
 </p>
-****
-
 Science and gender equality are both vital for the achievement of the internationally agreed development goals, including the 2030 Agenda for Sustainable Development. Over the past decades, the global community  has made a lot of effort in inspiring and engaging women and girls in  science. Yet women and girls continue to be excluded from participating  fully in science.
 
 In order to achieve full and equal access to and participation in  science for women and girls, and further achieve gender equality and the empowerment of women and girls, the United Nations General Assembly  declared 11 February as the International Day of Women and Girls in  Science in 2015. [^UN Observance]
@@ -152,6 +150,10 @@ ____
 
 1. SDG5: Gender Inequality, 2022, Target 5.b: https://sdgs.un.org/goals/goal5
 2. UN Observance, 2022, Article: https://www.un.org/en/observances/women-and-girls-in-science-day
+
+
+
+
 
 <!--Footnotes-->
 
