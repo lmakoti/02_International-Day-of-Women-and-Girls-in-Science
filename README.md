@@ -59,9 +59,9 @@ http://ec2-54-174-131-205.compute-1.amazonaws.com/API/HDRO_API.php/country_code=
 
 **Data Minimisation (GDPR)**
 
-**URL:** http://ec2-54-174-131-205.compute-1.amazonaws.com/API/HDRO_API.php/country_code=AGO,BWA,COM,COD,SWZ,LSO,MDG,MWI,MUS,MOZ,NAM,SYC,ZAF,TZA,ZMB,ZWE/indicator_id=68606
+**URL:** http://ec2-54-174-131-205.compute-1.amazonaws.com/API/HDRO_API.php/country_code=AGO,BWA,COM,COD,SWZ,LSO,MDG,MWI,MUS,MOZ,NAM,SYC,ZAF,TZA,ZMB,ZWE/indicator_id=indicator_placeholder
 
-**Indicators:** 68606, 175906, 183506
+**Indicators Placeholder:** 68606, 175906, 183506
 
 
 
@@ -95,30 +95,30 @@ Share of female graduates among all graduates of tertiary programmes in science,
 
 ## Dashboard
 
-1. **Main Report Page/Landing Page**
+**Dashboard Download (PDF, PBIX)**: <a href="International Day of Women and Girls in Science - SDG5 (A_RES_70_212-11022022).pdf">PDF Download</a> , <a href="International Day of Women and Girls in Science - SDG5 (A_RES_70_212-11022022).pbix">PowerBI Download (PBIX)</a>
 
-<img src="" alt="main_report_page" border="0">
+1. **Page 01 - Gender Inequality Index (Indicator ID - 68606)**
 
-
-2. **Metadata Report Page**
-
-<img src="" alt="metadata_report_page" border="0">
+<img src="03_Resources/page_01.png" alt="page_01" border="0">
 
 
+2. **Page 02 - Share of graduates in science, technology, engineering and mathematics programmes at tertiary level, female % (Indicator ID - 175906)**
+
+<img src="03_Resources/page_02.png" alt="page_02" border="0">
+
+3. **Page 03 - Share of graduates from science, technology, engineering and mathematics programmes in tertiary education who are female % (Indicator ID - 183506)**
+
+<img src="03_Resources/page_03.png" alt="page_03" border="0">
 
 ## Sponsors
 
-Codepool.tech (https://www.codepool.tech)
+> Codepool.tech (https://www.codepool.tech) <br/>
+> **Tsepo Thoabala, Software Engineer** (https://tmthoabala.codepool.tech/) <br/>
+> **Email:** info@codepool.tech
 
-**Tsepo Thoabala, Software Engineer (Co-founder)**
-
-**Email:** info@codepool.tech
-
-Girls-Coding-Academy (https://www.facebook.com/girlscodingacademy.ls)
-
-**'Maneo Mapharisa (...)**
-
-**Email:** ...@gmail.com
+> Girls-Coding-Academy (https://www.facebook.com/girlscodingacademy.ls) <br/>
+> **'Maneo Mapharisa** (https://www.linkedin.com/in/maneo-mapharisa-464814178/)<br/>
+> **Facebook:** https://www.facebook.com/girlscodingacademy.ls
 
 
 
@@ -126,15 +126,17 @@ Girls-Coding-Academy (https://www.facebook.com/girlscodingacademy.ls)
 
 Connecting and building networks is always part of our priorities, please reach out if you have any ideas on collaborative efforts or any suggestions on ways we could improve our work, hopefully we would be as much usefulness to you in return. 
 
-**Tebello Mokhele, Revenue Assurance Specialist (Vodacom, Vodafone Group)**
+> **Tebello Mokhele, Revenue Assurance Specialist (Vodacom, Vodafone Group)**
+>
+> LinkedIn - https://www.linkedin.com/in/tebello-mokhele-25009b98/
 
-LinkedIn - https://www.linkedin.com/in/tebello-mokhele-25009b98/
+>  **Tsepo Makhupane, Project Lead (Vodacom, Vodafone Group)**
+>
+> LinkedIn - https://www.linkedin.com/in/tsepo-makhupane-a9a74b16/
 
-**Lehlohonolo Makoti, Data Management and Analytics Specialist (Commonwealth)**
-
-LinkedIn - https://www.linkedin.com/in/lehlohonolomakoti/
-
-Profile - https://lmakoti.codepool.tech/
+> **Lehlohonolo Makoti, Data Management and Analytics Specialist (Commonwealth, Secretariat)**
+>
+> LinkedIn - https://www.linkedin.com/in/lehlohonolomakoti/
 
 
 
