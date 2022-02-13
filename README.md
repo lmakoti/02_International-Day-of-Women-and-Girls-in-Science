@@ -122,7 +122,7 @@ Share of female graduates among all graduates of tertiary programmes in science,
 
 ## Networking
 
-Connecting and building networks is always part of our priorities, please reach out if you have any ideas on collaborative efforts or any suggestions on ways we could improve our work, hopefully we would be as much usefulness to you in return. 
+Connecting and building networks is always part of our priorities, please reach out if you have any ideas on collaborative efforts or any suggestions on ways we could improve our work: 
 
 > **Tebello Mokhele, Revenue Assurance Specialist (Vodacom, Vodafone Group)**
 >
